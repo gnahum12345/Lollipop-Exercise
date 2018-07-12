@@ -5,6 +5,7 @@ import com.codepath.android.lollipopexercise.R;
 import android.content.Context;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
+import android.os.Parcelable;
 
 import java.io.Serializable;
 import java.util.ArrayList;
